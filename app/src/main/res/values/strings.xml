@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Cari Kost</string>
+
+    <string name="profile">Profile</string>
+
+    <string name="my_name">Zulfi Achsan Sani</string>
+    <string name="my_email">zulfiachsans44@gmail.com</string>
+
+    <string name="kost_name">Nama Kost</string>
+    <string name="kost_rate">Rate Kost</string>
+    <string name="kost_detail">Detail Kost</string>
+    <string name="kost_overview">Deskripsi</string>
+
+    <string name="title_detail">Pemilik \nFasilitas \n \nHarga \nLokasi \n \nNomor Telepon \nJumlah Kamar </string>
+    <string name="title_about_detail">Contact Person \nTwitter \nInstagram \nLinkedIn \nDicoding</string>
+    <string name="about_detail">\n@bangzas \n@zulfiachsans \nhttps://www.linkedin.com/in/zulfi-achsan-s-493a99138/  \nhttps://www.dicoding.com/users/zulfiachsansani</string>
+    <string name="content_overview">Content Overview</string>
+    <string name="content_detail">Content Detail</string>
+    <string name="contact_me">Contact Me</string>
+    <string name="unimma">Universitas Muhammadiyah Magelang</string>
+    <string name="bangkit"></string>
+
+    <string name="layout_button_satu">Favorite</string>
+    <string name="layout_button_dua">Pesan</string>
+</resources>
